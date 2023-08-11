@@ -1,6 +1,5 @@
-# Super-Mario-Jump-JS
+# 🎮 Super-Mario-Jump-JS
 
-# 🎮 Sobre o Alura Geek
 Jogo feito com JavaScript, utilizando Gifs e animações do próprio CSS para criar a sensação de movimento, além disso toda a lógica de hitbox, morte do personagem, aumento de velocidade e nível do jogo foi desenvolvido com JavaScript, fazendo uso principalmente de estruturas condicionais.
 
 ## 📄 Apresentação do projeto
